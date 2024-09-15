@@ -31,13 +31,19 @@ Neste projeto, foram utilizadas ferramentas de inteligência artificial para tes
   
 <img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem1.jpeg' style="width: 400px; height: auto;">  
 
+###### Fonte: [www.portalbueno.com.br](https://www.portalbueno.com.br/uploads/cache/25-01-2018-043648-203-1000-0e4dd5bc-portalbueno.jpg)
+
 - Imagem 2
 
 <img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem2.jpg' style="width: 400px; height: auto;">  
 
+###### Fonte: [www.tikao.com.br](https://www.tikao.com.br/imagens/informacoes/criacao-outdoor-02.jpg)
+
 - Imagem 3
   
-<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem3.jpg' style="width: 300px; height: auto;">
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem3.jpg' style="width: 300px; height: auto;">   
+
+###### Fonte: [Amazon.com](https://images-na.ssl-images-amazon.com/images/I/71DIhVk86FL._AC_UL1500_.jpg)
 
 ---
 
