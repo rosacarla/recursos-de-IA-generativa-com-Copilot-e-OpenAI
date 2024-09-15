@@ -31,7 +31,7 @@ Neste projeto, foram utilizadas ferramentas de inteligência artificial para tes
 
 ## 🤖 Tecnologias Utilizadas
 - Buscador **[Bing](https://www.bing.com/)** para seleção de imagens;
-- IA Generativa **[Copilot](https://www.bing.com/chat?form=NTPCHB)** e **[Gemini](https://gemini.google.com/u/1/app)** para processamento do conteúdo das imagens;
+- IA Generativa **[Copilot](https://copilot.microsoft.com/)** e **[Gemini](https://gemini.google.com/u/1/app)** para processamento do conteúdo das imagens;
 - Software **[Microsoft Word](https://www.microsoft.com/pt-br/microsoft-365/p/word/cfq7ttc0hlkm)** para documentar a estrutura do projeto;
 
 ---
@@ -45,7 +45,7 @@ Com o "Bing" foi realizada a busca de imagens que contivessem elmentos textuais.
 
 ## 🚀 Resultados
 <p align='justify'>
-Todos os resultados do processamento das imagens estão na pasta 'outputs'. Cada IA Generativa produziu resultados diferentes, conforme os exemplos a seguir:.   
+Todos os resultados do processamento das imagens estão na pasta 'outputs'. Obsserva-se que o Gemini produz respostas mais detalhadas para descrever as imagens, chegando a conter o dobro da quantidade de palavras das resposta do Copilot. Cada IA Generativa produziu resultados diferentes, conforme os exemplos a seguir:.   
 </p>  
 
 # Copilot
@@ -54,8 +54,11 @@ Todos os resultados do processamento das imagens estão na pasta 'outputs'. Cada
 
 # Gemini
 
-<img src=''>
+<img src=''>  
 
+# Comparação de outputs por número de palavras  
+
+<img src=''>  
 
 ---
 
