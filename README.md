@@ -24,8 +24,20 @@ Este projeto foi desenvolvido dentro do Bootcamp Microsoft Copilot AI, promovido
 
 ## 📒 Descrição 
 <p align='justify'>
-Neste projeto, foram utilizadas ferramentas de inteligência artificial para testar o processamento de 3 imagens, que foram selecionadas com auxílio do buscador Bing. Os resultados do processamento estão armazenados na pasta outpus e demonstram como uma IA generativa pode interpretar o conteúdo de imagens a partir de prompts enviados pelo pelo usuário.   
-</p>
+Neste projeto, foram utilizadas ferramentas de inteligência artificial para testar o processamento de 3 imagens, que foram selecionadas com auxílio do buscador Bing. Os resultados do processamento estão armazenados na pasta outpus e demonstram como uma IA generativa pode interpretar o conteúdo de imagens a partir de prompts enviados pelo usuário.   
+</p>  
+
+- Imagem 1
+  
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem1.jpeg' style="width: 400px; height: auto;">  
+
+- Imagem 2
+
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem2.jpg' style="width: 400px; height: auto;">  
+
+- Imagem 3
+  
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/inputs/imagem3.jpg' style="width: 300px; height: auto;">
 
 ---
 
@@ -38,7 +50,7 @@ Neste projeto, foram utilizadas ferramentas de inteligência artificial para tes
 
 ## 🧐 Processo de Criação  
 <p align='justify'>
-Com o "Bing" foi realizada a busca de imagens que contivessem elmentos textuais. "Copilot" e "Gemini" foram utilizados para os testes de processamnto das imagens. O "Microsoft Word" foi utilizado para registrar as fases de preparação do projeto. 
+Com o "Bing" foi realizada a busca de imagens que contivessem elementos textuais. "Copilot" e "Gemini" foram utilizados para os testes de processamento das imagens. O "Microsoft Word" foi utilizado para registrar as fases de preparação do projeto e as informações referentes a todos os outputs. 
 </p>
 
 ---
@@ -48,23 +60,23 @@ Com o "Bing" foi realizada a busca de imagens que contivessem elmentos textuais.
 Todos os resultados do processamento das imagens estão na pasta 'outputs'. Obsserva-se que o Gemini produz respostas mais detalhadas para descrever as imagens, chegando a conter o dobro da quantidade de palavras das resposta do Copilot. Cada IA Generativa produziu resultados diferentes, conforme os exemplos a seguir:.   
 </p>  
 
-# Copilot
+# Copilot (ref. a imagem 1)
 
-<img src=''>
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/outputs/output1-copilot.png' style="width: 600px; height: auto;">
 
-# Gemini
+# Gemini (ref. a imagem 1)
 
-<img src=''>  
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/outputs/output1-gemini.png' style="width: 600px; height: auto;">  
 
 # Comparação de outputs por número de palavras  
 
-<img src=''>  
+<img src='https://github.com/rosacarla/recursos-de-IA-generativa-com-Copilot-e-OpenAI/blob/main/outputs/contagem-palavras-outputs.png' style="width: 400px; height: auto;">  
 
 ---
 
 ## 💭 Reflexão
 <p align='justify'>
-A experiência trazida pelo desenvolvimento deste projeto possibilitou comparar os resultados produzidos por duas ferramentas de IA generativa. 
+A experiência trazida pelo desenvolvimento deste projeto possibilitou comparar os resultados produzidos por duas ferramentas de IA generativa e perceber que há diferença considerável na extensão dos outputs. 
 </p>
 
 --- 
