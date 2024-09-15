@@ -1,4 +1,4 @@
-# Recursos de IA generativa com Copilot, Gemini e OpenAI
+# Recursos de IA generativa com Copilot, OpenAI e Gemini
 
 ### 🚀 Introdução
 
